@@ -21,8 +21,6 @@ LIBRISPEECH = (
     "test-clean",
     "test-other",
     "train-clean-100",
-    "train-clean-360",
-    "train-other-500",
 )
 MINI_LIBRISPEECH = ("dev-clean-2", "train-clean-5")
 
